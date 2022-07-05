@@ -233,7 +233,6 @@ h2 {
     rgba(0, 0, 0, 0.65)), url("../img/hero-1.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -246,7 +245,6 @@ h2 {
     rgba(0, 0, 0, 0.65)), url("../img/hero-2.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -258,7 +256,6 @@ h2 {
     rgba(0, 0, 0, 0.65)), url("../img/hero-3.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -271,7 +268,6 @@ h2 {
     rgba(0, 0, 0, 0.65)), url("../img/hero-5.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -283,7 +279,6 @@ h2 {
     to right,rgba(0, 0, 0, 0.65), 
     rgba(0, 0, 0, 0.65)), url("../img/hero-6.jpg");
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
