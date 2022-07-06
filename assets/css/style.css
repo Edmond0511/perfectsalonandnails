@@ -244,8 +244,8 @@ h2 {
   max-width: 100%;
   height: 100vh;
   box-sizing: border-box;
-
 }
+
 
 .slide1 {
   background: linear-gradient(to right, rgba(0, 0, 0, 0.65),
@@ -253,6 +253,7 @@ h2 {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+
 
 }
 
